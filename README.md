@@ -1,1 +1,1 @@
-[Click me to view my resume on GitHub pages](https://destant.github.io/my-resume/){:target="_blank"}
+<a href="https://destant.github.io/my-resume/" target="_blank">Click here</a> to view my resume on GitHub pages!
